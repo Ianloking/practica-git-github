@@ -3,9 +3,14 @@
 ## Tres comandos de Git
 
 1. git init - Inicializa un nuevo repositorio Git.
-2. git status - Muestra el estado actual del repositorio y los archivos.
-3. git add . - Agrega todos los archivos al área de preparación (staging).
+2. git status - Muestra el estado actual del repositorio.
+3. git add . - Agrega los archivos al área de preparación.
 
 ## ¿Para qué sirve GitHub?
 
-GitHub sirve como un repositorio remoto que permite almacenar proyectos en la nube, compartir código, colaborar con otros desarrolladores y llevar un control de versiones mediante Git.
+GitHub sirve como un repositorio remoto que permite almacenar proyectos en la nube, colaborar con otros desarrolladores y llevar un control de versiones.
+
+## Comandos adicionales
+
+- git clone: Copia un repositorio remoto a tu computadora.
+- git pull: Descarga e integra los cambios del repositorio remoto al repositorio local.
