@@ -14,3 +14,8 @@ GitHub sirve como un repositorio remoto que permite almacenar proyectos en la nu
 
 - git clone: Copia un repositorio remoto a tu computadora.
 - git pull: Descarga e integra los cambios del repositorio remoto al repositorio local.
+
+## Comandos avanzados
+
+- git branch: Crea, lista o elimina ramas en un repositorio.
+- git checkout: Cambia entre ramas o restaura archivos.
